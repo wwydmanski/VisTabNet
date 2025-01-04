@@ -5,6 +5,8 @@
 
 VisTabNet is a powerful Vision Transformer-based Tabular Data Classifier that leverages the strength of transformer architectures for tabular data classification tasks.
 
+It is a proof of concept for [VisTabNet: Adapting Vision Transformers for Tabular Data](https://arxiv.org/abs/2501.00057v1) publication.
+
 ## Features
 
 - Vision Transformer architecture adapted for tabular data
