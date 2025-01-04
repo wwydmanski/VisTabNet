@@ -1,13 +1,13 @@
 [tool.poetry]
 name = "vistabnet"
-version = "0.1.0"
+version = "0.1.1"
 description = ""
 authors = ["wwydmanski <wwydmanski@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.9"
-torch = "^2.0"
+torch = "^2"
 tqdm = "^4.65.0"
 focal-loss-torch = "^0.1.2"
 torchvision = "^0.15.0"
